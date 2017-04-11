@@ -1,0 +1,17 @@
+# Server version 0.08 running on 192.168.1.6:8123
+# Game ID: 552
+# Board class: bohnenspiel.BohnenspielBoard
+# Timeout: 700
+# First Move Timeout: 30000
+# Date: Tue Mar 28 22:22:03 EDT 2017
+# Player 1: Player-0, '260567881', running on localhost
+# Player 2: Player-1, 'mcmcmcmcm', running on localhost
+START Player-0 260567881
+START Player-1 mcmcmcmcm
+PIT 1 0
+PIT 0 5
+PIT 1 4
+PIT 0 0
+PIT 1 0
+GAMEOVER ILLEGAL MOVE: Player 0 plays pit 0 WINNER 1         Player-0 score: 0  Player-1 score: 2
+# Game ended: Tue Mar 28 22:22:08 EDT 2017
